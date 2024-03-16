@@ -1,0 +1,3 @@
+-Hello 👋I am @NewOriginDev
+-👨‍💻Programming is one of my hobbies so is game dev
+-👨‍🏫I am currently learning GDscript I am average at it but you can never stop learning!
