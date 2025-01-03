@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @NewDevOrgin
-- 👀 I’m interested in coding (clearly)
-- 🌱 I’m currently learning C++ (im new)
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me, don't!
-- ⚡ Fun fact: Im bored 🫤
+Hi I am Phoenix aka NewDevOrgin!
+
+I am an indie game developer but I make other software in python on the side aswell!
